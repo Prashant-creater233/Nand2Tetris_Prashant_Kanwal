@@ -1,5 +1,4 @@
 Nand2Tetris Combined HDL Projects
-=================================
 
 Project 1: Boolean logic chips
 Project 2: Arithmetic chips
